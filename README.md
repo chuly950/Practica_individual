@@ -70,17 +70,11 @@ Conjunto de reglas a las cuales se rige un repositorio.
 ## 1. Basic Workflow
 Usualmente se usa individualmente en un proyecto pequeño.
 
-![Basic](Imágenes/Basic.png)
-
 ## 2. Feature Branch Workflow
 Suele ser usado en trabajos en equipo para proyectos pequeños.
 
-![Feature Branch](Imágenes/Feature%20branch.png)
-
 ## 3. Gitflow Workflow
 Se utilizan en trabajos en equipo para proyectos más grandes y extensos.
-
-![Gitflow](Imágenes/Gitflow.png)
 
 1. Main.- Es la versión del proyecto, en esta rama se añaden los proyectos ya finalizados y que hayan pasado por el release o hotfix en algunos casos.
 2. Hotfix.- Es un parcheo o arreglo inmediato del proyecto. De aquí nacen las versiones 1.2, 2.1.2, etc
@@ -91,5 +85,4 @@ Se utilizan en trabajos en equipo para proyectos más grandes y extensos.
 ## 4. Forking Workflow
 Consiste en clonar el repositorio y emplear algunos de los anteriores Workflow
 
-![Forking](Imágenes/Forking.png)
 
